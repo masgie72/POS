@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d เจจเจตเฉ€เจ เจธเฉเจเจจเจพ</item>
+    <item quantity="other">%d เจจเจตเฉ€เจเจ เจธเฉเจเจจเจพเจตเจพเจ</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"เจนเฉเจฎ \'เจคเฉ เจเจพเจ“"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"เจเฉฑเจชเจฐ เจเจพเจ“"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"เจนเฉเจฐ เจตเจฟเจ•เจฒเจช"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"เจนเฉ เจ—เจฟเจ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"เจธเจญ เจฆเฉเจ–เฉ"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"เจเฉฑเจ• เจเจช เจเฉเจฃเฉ"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"เจฌเฉฐเจฆ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"เจเจพเจฒเฉ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"เจฎเจฟเจเจพเจ“"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"เจ–เฉเจโ€ฆ"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"เจชเฉเฉฑเจเจ—เจฟเฉฑเจ เจ•เจฒเฉ€เจ…เจฐ เจ•เจฐเฉ"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"เจ–เฉเจ เจชเฉเฉฑเจเจ—เจฟเฉฑเจ"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"เจ–เฉเจ"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"เจชเฉเฉฑเจเจ—เจฟเฉฑเจ เจธเจชเฉเจฐเจฆ เจ•เจฐเฉ"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"เจ…เจตเจพเจเจผเฉ€ เจ–เฉเจ"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"เจเจธ เจจเจพเจฒ เจธเจพเจเจเจพ เจ•เจฐเฉ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> เจจเจพเจฒ เจธเจพเจเจเจพ เจ•เจฐเฉ"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"เจธเจฎเฉเจเฉ"</string>
+    <string name="bottomsheet_action_collapse">เจนเฉเจ เจฒเฉ€ เจธเจผเฉ€เจ เจจเฉเฉฐ เจธเจฎเฉเจเฉ</string>
+    <string name="bottomsheet_action_expand">เจนเฉเจ เจฒเฉ€ เจธเจผเฉ€เจ เจฆเจพ เจตเจฟเจธเจคเจพเจฐ เจ•เจฐเฉ</string>
+    <string name="bottomsheet_action_expand_halfway">เจ…เฉฑเจง เจคเฉฑเจ• เจตเจฟเจธเจคเจพเจฐ เจ•เจฐเฉ</string>
+    <string name="bottomsheet_drag_handle_clicked">เจเจธเฉ€เจเจฃ เจตเจพเจฒเฉ เจนเฉเจเจกเจฒ \'เจคเฉ เจกเจฌเจฒ-เจเฉเจช เจ•เฉ€เจคเจพ เจ—เจฟเจ</string>
+    <string name="bottomsheet_drag_handle_content_description">เจเจธเฉ€เจเจฃ เจตเจพเจฒเจพ เจนเฉเจเจกเจฒ</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"เจเจตเจพเจฌ เจฆเจฟเจ“"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"เจตเฉ€เจกเฉ€เจ“"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"เจ•เจพเจฒ เจ•เฉฑเจเฉ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"เจธเจฎเจพเจชเจค เจ•เจฐเฉ"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"เจเจจเจ•เจฎเจฟเฉฐเจ— เจ•เจพเจฒ"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"เจเจพเจฐเฉ€ เจ•เจพเจฒ"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"เจเจจเจ•เจฎเจฟเฉฐเจ— เจ•เจพเจฒ เจฆเฉ€ เจธเจ•เฉเจฐเฉ€เจจเจฟเฉฐเจ— เจ•เฉ€เจคเฉ€ เจเจพ เจฐเจนเฉ€ เจนเฉ"</string>
+    <string name="character_counter_content_description">%2$d เจตเจฟเฉฑเจเฉเจ %1$d เจ…เฉฑเจ–เจฐ-เจเจฟเฉฐเจจเฉเจน เจฆเจพเจ–เจฒ เจ•เฉ€เจคเฉ เจ—เจ</string>
+    <string name="character_counter_overflowed_content_description">เจ…เฉฑเจ–เจฐ-เจเจฟเฉฐเจจเฉเจน เจธเฉ€เจฎเจพ %2$d เจคเฉเจ %1$d เจตเจงเฉ€</string>
+    <string name="clear_text_end_icon_content_description">เจฒเจฟเจ–เจค เจ•เจฒเฉ€เจ…เจฐ เจ•เจฐเฉ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s เจจเฉเฉฐ Google Play เจธเฉเจตเจพเจตเจพเจ เจจเจพเจฒ เจธเจฎเฉฑเจธเจฟเจ เจ เจฐเจนเฉ€ เจนเฉเฅค เจ•เจฟเจฐเจชเจพ เจ•เจฐเจ•เฉ เจฆเฉเจฌเจพเจฐเจพ เจ•เฉเจธเจผเจฟเจธเจผ เจ•เจฐเฉเฅค</string>
+    <string msgid="6083905920877235314" name="copy">"เจ•เจพเจชเฉ€ เจ•เจฐเฉ"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"เจฒเจฟเฉฐเจ• เจ•เจฒเจฟเฉฑเจชเจฌเฉเจฐเจก \'เจคเฉ เจ•เจพเจชเฉ€ เจนเฉ เจ—เจฟเจ"</string>
+    <string name="error_a11y_label">เจ—เฉเจฌเฉ: เจ…เจตเฉเจง</string>
+    <string name="error_icon_content_description">เจ—เฉเจฌเฉ</string>
+    <string name="exo_download_completed">เจกเจพเจเจจเจฒเฉเจก เจฎเฉเจ•เฉฐเจฎเจฒ เจนเฉเจเจ</string>
+    <string name="exo_download_description">เจกเจพเจเจจเจฒเฉเจก เจ•เจฐเฉ</string>
+    <string name="exo_download_downloading">เจกเจพเจเจจเจฒเฉเจก เจ•เฉ€เจคเจพ เจเจพ เจฐเจฟเจนเจพ เจนเฉ</string>
+    <string name="exo_download_failed">เจกเจพเจเจจเจฒเฉเจก เจ…เจธเจซเจฒ เจฐเจฟเจนเจพ</string>
+    <string name="exo_download_notification_channel_name">เจกเจพเจเจจเจฒเฉเจก</string>
+    <string name="exo_download_paused">เจกเจพเจเจจเจฒเฉเจก เจฐเฉเจ• เจ—เจ เจนเจจ</string>
+    <string name="exo_download_paused_for_network">เจกเจพเจเจจเจฒเฉเจกเจพเจ เจฒเจ เจจเฉเฉฑเจเจตเจฐเจ• เจฆเฉ€ เจเจกเฉ€เจ• เจนเฉ เจฐเจนเฉ€ เจนเฉ</string>
+    <string name="exo_download_paused_for_wifi">เจกเจพเจเจจเจฒเฉเจกเจพเจ เจฒเจ เจตเจพเจ-เจซเจพเจ เจฆเฉ€ เจเจกเฉ€เจ• เจนเฉ เจฐเจนเฉ€ เจนเฉ</string>
+    <string name="exo_download_removing">เจกเจพเจเจจเจฒเฉเจก เจ•เฉ€เจคเฉ€ เจธเจฎเฉฑเจ—เจฐเฉ€ เจนเจเจพเจ เจเจพ เจฐเจนเฉ€ เจนเฉ</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"เจ…เจกเจตเจพเจเจธ"</string>
+    <string name="exposed_dropdown_menu_content_description">เจกเฉเจฐเฉเจช-เจกเจพเจเจจ เจฎเฉ€เจจเฉ เจฆเจฟเจ–เจพเจ“</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"เจฒเจฟเฉฐเจ• เจ•เจพเจชเฉ€ เจ•เจฐเฉ"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"เจฌเฉเจฐเจพเจเจเจผเจฐ เจตเจฟเฉฑเจ เจ–เฉเจฒเฉเจนเฉ"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"เจฒเจฟเฉฐเจ• เจธเจพเจเจเจพ เจ•เจฐเฉ"</string>
+    <string msgid="2863935784364843033" name="glance_error_layout_text"><b><tt>"adb logcat"</tt>" เจฆเฉ€ เจตเจฐเจคเฉเจ เจจเจพเจฒ "</b>", "<b><tt>"GlanceAppWidget"</tt></b>" เจฆเฉ€ เจ–เฉเจ เจ•เจฐ เจ•เฉ เจธเจเฉ€เจ• เจ—เฉเจฌเฉ เจฆเฉ€ เจเจพเจเจ เจ•เจฐเฉ"</string>
+    <string msgid="5191168365305634625" name="glance_error_layout_text_v2">"เจธเจฎเฉฑเจ—เจฐเฉ€ เจจเจนเฉ€เจ เจฆเจฟเจ–เจพเจ เจเจพ เจธเจ•เจฆเฉ€"</string>
+    <string msgid="3631961919234443531" name="glance_error_layout_title"><b>"Glance เจเจช เจตเจฟเจเฉเจ เจธเฉฐเจฌเฉฐเจงเฉ€ เจ—เฉเจฌเฉ"</b></string>
+    <string name="icon_content_description">เจตเจฟเฉฐเจกเฉ เจฆเจพ เจชเฉเจฐเจคเฉ€เจ•</string>
+    <string name="item_view_role_description">เจเฉเจฌ</string>
+    <string name="material_clock_toggle_content_description">AM เจเจพเจ PM เจเฉเจฃเฉ</string>
+    <string name="material_hour_24h_suffix">%1$s เจเฉฐเจเฉ</string>
+    <string name="material_hour_selection">เจธเจฎเจพเจ เจเฉเจฃเฉ</string>
+    <string name="material_hour_suffix">%1$s เจตเจเฉ</string>
+    <string name="material_minute_selection">เจฎเจฟเฉฐเจ เจเฉเจฃเฉ</string>
+    <string name="material_minute_suffix">%1$s เจฎเจฟเฉฐเจ</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">เจธเจฎเจพเจ เจเจจเจชเฉเฉฑเจ เจ•เจฐเจจ เจฒเจ เจเฉเฉ€ เจฎเฉเจก \'เจคเฉ เจธเจตเจฟเฉฑเจ เจ•เจฐเฉเฅค</string>
+    <string name="material_timepicker_hour">เจเฉฐเจเจพ</string>
+    <string name="material_timepicker_minute">เจฎเจฟเฉฐเจ</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">เจธเจฎเจพเจ เจเฉเจฃเฉ</string>
+    <string name="material_timepicker_text_input_mode_description">เจธเจฎเจพเจ เจเจจเจชเฉเฉฑเจ เจ•เจฐเจจ เจฒเจ เจฒเจฟเจ–เจค เจเจจเจชเฉเฉฑเจ เจฎเฉเจก \'เจคเฉ เจธเจตเจฟเฉฑเจ เจ•เจฐเฉเฅค</string>
+    <string name="mtrl_badge_numberless_content_description">เจจเจตเฉ€เจ เจธเฉเจเจจเจพ</string>
+    <string name="mtrl_checkbox_state_description_checked">เจธเจนเฉ€ เจฆเจพ เจจเจฟเจถเจพเจจ เจฒเจพเจเจ เจ—เจฟเจ</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">เจ…เฉฐเจถเจ• เจคเฉเจฐ เจคเฉ เจเจพเจเจ เจ•เฉ€เจคเฉ€ เจ—เจ</string>
+    <string name="mtrl_checkbox_state_description_unchecked">เจธเจนเฉ€ เจฆเจพ เจจเจฟเจถเจพเจจ เจจเจนเฉ€เจ เจฒเจพเจเจ เจ—เจฟเจ</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s เจนเจเจพเจ“</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d เจคเฉเจ เจตเฉฑเจง เจจเจตเฉ€เจเจ เจธเฉเจเจจเจพเจตเจพเจ</string>
+    <string name="mtrl_picker_a11y_next_month">เจ…เจ—เจฒเฉ เจฎเจนเฉ€เจจเฉ \'เจคเฉ เจเจพเจ“</string>
+    <string name="mtrl_picker_a11y_prev_month">เจชเจฟเจเจฒเฉ เจฎเจนเฉ€เจจเฉ \'เจคเฉ เจเจพเจ“</string>
+    <string name="mtrl_picker_announce_current_range_selection">เจธเจผเฉเจฐเฉเจเจคเฉ€ เจคเจพเจฐเฉ€เจ– เจฆเฉ€ เจเฉเจฃ: %1$s โ€“ เจธเจฎเจพเจชเจคเฉ€ เจคเจพเจฐเฉ€เจ– เจฆเฉ€ เจเฉเจฃ: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">เจฎเฉเจเฉเจฆเจพ เจเฉเจฃ: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">เจ•เฉเจ เจจเจนเฉ€เจเจ</string>
+    <string name="mtrl_picker_cancel">เจฐเฉฑเจฆ เจ•เจฐเฉ</string>
+    <string name="mtrl_picker_confirm">เจ เฉ€เจ• เจนเฉ</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">เจคเจพเจฐเฉ€เจ– เจเฉเจฃเฉ</string>
+    <string name="mtrl_picker_date_header_unselected">เจเฉเจฃเฉ€ เจ—เจ เจคเจพเจฐเฉ€เจ–</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">เจธเจฎเจพเจชเจคเฉ€ เจคเจพเจฐเฉ€เจ– %1$s</string>
+    <string name="mtrl_picker_invalid_format">เจ…เจตเฉเจง เจซเจพเจฐเจฎเฉเจเฅค</string>
+    <string name="mtrl_picker_invalid_format_example">เจเจฆเจพเจนเจฐเจจ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">เจตเจฐเจคเฉ: %1$s</string>
+    <string name="mtrl_picker_invalid_range">เจ…เจตเฉเจง เจฐเฉเจเจเฅค</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">เจฎเฉเจเฉเจฆเจพ เจธเจพเจฒ \'เจคเฉ เจเจพเจ“ %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">เจธเจพเจฒ %1$d \'เจคเฉ เจจเฉเจตเฉ€เจ—เฉเจ เจ•เจฐเฉ</string>
+    <string name="mtrl_picker_out_of_range">เจฐเฉเจเจ เจคเฉเจ เจฌเจพเจนเจฐ: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">เจธเจผเฉเฉเจฐเฉเจเจคเฉ€ เจคเจพเจฐเฉ€เจ– โ€“ %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s โ€“ เจธเจฎเจพเจชเจคเฉ€ เจคเจพเจฐเฉ€เจ–</string>
+kotlin version: 2.2.20
+error message: Daemon compilation failed: null
+java.lang.Exception
+	at org.jetbrains.kotlin.daemon.common.CompileService$CallResult$Error.get(CompileService.kt:69)
+	at org.jetbrains.kotlin.daemon.common.CompileService$CallResult$Error.get(CompileService.kt:65)
+	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.compileWithDaemon(GradleKotlinCompilerWork.kt:240)
+	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.compileWithDaemonOrFallbackImpl(GradleKotlinCompilerWork.kt:159)
+	at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.run(GradleKotlinCompilerWork.kt:111)
+	at org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction.execute(GradleCompilerRunnerWithWorkers.kt:74)
+	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+	at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.java:62)
+	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:44)
+	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:41)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+	at org.gradle.workers.internal.AbstractWorker.executeWrappedInBuildOperation(AbstractWorker.java:41)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+	at org.gradle.workers.internal.DefaultWorkerExecutor.lambda$submitWork$0(DefaultWorkerExecutor.java:174)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runExecution(DefaultConditionalExecutionQueue.java:194)
+	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.access$700(DefaultConditionalExecutionQueue.java:127)
+	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner$1.run(DefaultConditionalExecutionQueue.java:169)
+	at org.gradle.internal.Factories$1.create(Factories.java:31)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:132)
+	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runBatch(DefaultConditionalExecutionQueue.java:164)
+	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.run(DefaultConditionalExecutionQueue.java:133)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+	at java.base/java.util.concurrent.Thread    <string name="mtrl_picker_range_header_selected">%1$s โ€“ %2$s</string>
+    <string name="mtrl_picker_range_header_title">เจฐเฉเจเจ เจเฉเจฃเฉ</string>
+    <string name="mtrl_picker_range_header_unselected">เจธเจผเฉเจฐเฉเจเจคเฉ€ เจคเจพเจฐเฉ€เจ– โ€“ เจธเจฎเจพเจชเจคเฉ€ เจคเจพเจฐเฉ€เจ–</string>
+    <string name="mtrl_picker_save">เจฐเฉฑเจ–เจฟเจ…เจค เจ•เจฐเฉ</string>
+    <string name="mtrl_picker_start_date_description">เจธเจผเฉเจฐเฉเจเจคเฉ€ เจคเจพเจฐเฉ€เจ– %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">เจคเจพเจฐเฉ€เจ–</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">เจธเจฎเจพเจชเจคเฉ€ เจคเจพเจฐเฉ€เจ–</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">เจธเจผเฉเจฐเฉเจเจคเฉ€ เจคเจพเจฐเฉ€เจ–</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">เจ…เฉฑเจ %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">เจ•เฉเจฒเฉฐเจกเจฐ เจเจจเจชเฉเฉฑเจ เจฎเฉเจก \'เจคเฉ เจเจพเจ“</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Calendar เจฆเฉเจฐเจฟเจธเจผ \'เจคเฉ เจธเจตเจฟเฉฑเจ เจ•เจฐเจจ เจฒเจ เจเฉเจช เจ•เจฐเฉ</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">เจฒเจฟเจ–เจค เจเจจเจชเฉเฉฑเจ เจฎเฉเจก \'เจคเฉ เจเจพเจ“</string>
+    <string name="mtrl_picker_toggle_to_year_selection">เจธเจพเจฒ เจฆเฉเจฐเจฟเจธเจผ \'เจคเฉ เจธเจตเจฟเฉฑเจ เจ•เจฐเจจ เจฒเจ เจเฉเจช เจ•เจฐเฉ</string>
+    <string name="mtrl_timepicker_cancel">เจฐเฉฑเจฆ เจ•เจฐเฉ</string>
+    <string name="mtrl_timepicker_confirm">เจ เฉ€เจ• เจนเฉ</string>
+    <string msgid="6573031135582639649" name="not_set">"เจธเฉเฉฑเจ เจจเจนเฉ€เจ เจนเฉ"</string>
+    <string name="password_toggle_content_description">เจชเจพเจธเจตเจฐเจก เจฆเจฟเจ–เจพเจ“</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" เจจเฉเฉฐ เจ•เจฒเจฟเฉฑเจชเจฌเฉเจฐเจก \'เจคเฉ เจ•เจพเจชเฉ€ เจ•เฉ€เจคเจพ เจ—เจฟเจเฅค"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"เจ–เฉเจ"</string>
+    <string name="searchview_clear_text_content_description">เจฒเจฟเจ–เจค เจ•เจฒเฉ€เจ…เจฐ เจ•เจฐเฉ</string>
+    <string name="searchview_navigation_content_description">เจชเจฟเฉฑเจเฉ</string>
+    <string name="side_sheet_accessibility_pane_title">เจธเจพเจเจก เจถเฉ€เจ</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"เจฌเฉฐเจฆ"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"เจเจพเจฒเฉ"</string>
+</resources>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            PK     !!j๊W๙j $j E   assets/flutter_assets/assets/fonts/quran_fonts/QCF4175_X-Regular.woff\{s'ฟํุÜฑmÛถmÛ๖mÛถm๏่3ถนc[;x๓ýฝ๗ื๋ชS้{r๎อํฎT*้ค=ฤล€€€€ญI~Jคÿู?ทÿÿ%!*๖ฃตj๙แQÿD p	E•nüวึ๚i?๑’ต
+๓Oภร[þตฯ9&vF@@`ÿณýV}O7qw%düแ~ 	a๎ha๗ฃ[๛๑ืþ)ต\Zนณ,\ฺจ๙ั@ý?ภZุzA+๋ณ่ุ”ี;Xþ๘ูþhุÿจ;สๅ๙ร•üุ? ๅฆย"ตดs๕üyPึจü @กษึมไGฉ๚ฃ}ÿแB€จํ<rþ๓ใ๗?ศ*(ฆฝ‘ฐEศ๙'?Ne,ฏBGืü2~4(ÿ้พý€Pอ~|!~ฺ ๚/๒ี<๐๕Dํ9DÞ'(X่ÿbอxน+þWโ( |Eฝํำrย฿ÿP@ ÿ๓ ๒Ü0145ÜSx+(่}2Xm?ใFซ0Jฉศ๙ฟ๕ด3@ 1สq‘ภ @@O?þซG64ห บวา%6โ
+7—0ห Cpฺ6`๕lไb!22~tN็฿ห
+>@(f ื oฒ–€i+ม๗þLQGี•ทพ{ฦญ<3ว,L*ิ”ฟb^l่—๔|”3A~Twฆ”Nwถป)kca,I๒`CดÞ€ฐฆ"Il~ฮW๋#gK฿C๎อC_qผkBฌ่TVฒt…บAธ‘?~•Jdลฒฯ์๎ฉ}R”k~H์ถจญ6ทุ60@…‘มี#เ3aแnNQ’บ4ฃuภ๙Q\๗ {ÝฏHๆ3Izตj{๗k๚ฺๅ	yF๖Ý x#9& มช!ฉ‘ฝ(v๚฿Fร๐ํB?บภ2yJ…#๋ฐ‘—๖๗ฝÜ&Gd”ี๋Elสลwnq–2 ’7ิ฿-s๓v[\ณ+HดไลนืUm…	nb“Zaxp๙ฑJ<อ%๎Xผ;ฦ\ไQ0ภ,Û{+ฯ๛ฤ–น*โIuขuVgselโษซธๅtý/บ5dAฅPTE๖^#,RÜ์Sีิฬ[ๅp%‘dgVNีþะ่ปNcใQ)รส<ฐN>”๋Gfd^kDพฟOjx{ต.6ฉด#แ3๒’vฦ•งÛฐM/|๏ํ—ฐกฬ๛ฤxฦฺหfm๗ษe\๛9#þÜiCฺอ‘XฌGก{1ุึÝ@M]ผฯฐ]๋ฤz	ÿ[ืS้fh!:ุs0๑Ü์Þฦu)m๙้ZPYiA,๗znB9,็Þ+mๅ–#ü^ฯ1“ฏฦพูพAำ๊ÿืG!‘	' สด0ZมH''&	'๖<๒7ฟฟY€ “2Hcฮพ๋ฟwฟ>ฟoý'ัI“็€€ฺ ะ—þ๋ฃ#	Ý๒รจavสา…บ€REk๊๕(€"x#$q!} ใ,Feชไ.0•"๏ค>Ü ถZaU\jืฺ	ฎNฟ€’…ฅ$IAตygฏรแสไC,ัาþV<_Aý-'&Tm8คแSฐM]gþํK;๒า๛[คIญ=Wไhฟp๑sอÞ๑RSv^1นlTT^ ฐ€งี&–sCศ!ัfGฑฐ#มข๐9S!๊Nีฌ”ำw๘๓*ค&ซ9U"X:ฐ’๖,ท`Ûโk|ฉฆbงc4pึ๘ฏฺ>ห_ว‘t์กt	*^ฏฯu,1%๑%ฤ$Û:ต=Z๊}๑ฏำบoY)๊J~ชR^6๗&ฆ๖f ๖วü๛ๆeภฆูัIฤ๎LชA”Wyิýค4 {2•ล๔ฺPฯ^ัฃกü้2.๓฿ปีๅ“QBÛ๗@2%}eั =-(บUิย–qคุฑญูจๅqFน!ืM=q8h์Jๆ0?ฎฤüc+nฦ$๓์s7ฃ ๒7sฟ๊ก,็~๖z5๚ๆ€5ห๋8นดBMเๅJๅ๔OCืQÞRzโษjีl*ฦ๒D=ดt ษ”5e€^ฅ/Gyญศ)Ü€3ฌ๚'dถE$บๆ๋+dถ๚รโE0ฒ
+…|EXgซÛ’ฌ?ฌ&m6สY(qGK_ำR๋ฬ$M&qEำY(ญ;ขงถ5พ_ไๅg…nÜþขืý฿Xสhdiฒ6ํ=8C@T&
+	4โÛ๖ฟ๑ึ,ÞJU5ดÿRธFWฒUวํe
+ป
+ฅ,üฆ?า–$rFดๅกโ%ICฆA์:’คMโK"fpกจ”จฆ)คตsEtmแๆ“Kลý|ผ3ฝ9ร๛ปั฿ฃ๐$Hฃ—!sฬPaาดกwOHÛ *C5๘ฎ]Faฟ๔ฉKเ/ฯ	1ขญhmCะ8๊ั๎'ฎภืnaฺbBÜืธม๊(ืRก๘็มÿ๙8๎มจ๊ฐฯยrโ ”ฎธฏฒ`ýหวyH+ฎะฮÝkþL๏ฬพzา๑฿:๓๋Hkง์}s๔เญ*ง๋ฦ~/68ภhwalมÛ, ำz*ฺก$EๅR2…๊:`'รG๕ว๖Hบ.่์ค|"ิฮ`^)ผ๔IYq๎ซzฏ๖ฑ$…ต้IlบSถoซอ4พV“ฤ#.ฟฮOไW<๓U	a+Ý.ý|6ื“•HLÜ=ฎรมหW,าำชs W /ฒ๐ชจ๋Ýไ๗ืü๘d{?์O' e5็๓ÿbj(ฬยดO/+สb.,`๎LaพมHฮ๕Wr4ลศolส~l๊btำ+๊	4,Q๋,รLir;Cํ/ฃอฮ๘ÛJFุýฃค2็จ•๗ๆq~J’eAฒพ๖ÜZฃปzYบ๚jY็ชv็ฉฮ๛ฆืธ!–๕oPใ ซIึRP!ธ0Qย,Gl{[cธร–UฏM๖ึวอหรoÿ๊yKsV๎ฎYฏ—8$ิ7$ก–Coจ0E(e๒ใศ}^ฆ‘ก๏'—ต"–๐y4IOd[^…๏”76c!แq0Sด{  nVผH๑ `ยejาMฺ#,;X1ๅ,ฐ…ส{Y<r•ฬ{Y/-ๅ6-2i๒}þAAh้_%bÞm๘
+๏ru XnOใฟ
+ฎa:’Ýม|ปื I็}”aฦฺ	AณkK.Yfู๏*iดณ%*๎่ฏา็็Fญฑ_๒ฝ0จÜนโ;๛่”9vํํi+ฃั#Tส>Jลฬ2คy<T๚หงลผhำnฝüQน€ฐฟะSJ๎ÿv2tฌณฐ9รRQ#่Ie๋ๆUปษ5ิ\ด๖ใ_}M9V์ะฒC@@ป<=มÝ•Vฐ€Faะ@,E็Yฎฝ!0S๏’.i8ฺฤต๔ธl—้cÞไใฬ๒#฿wL$S‘N(ý๚ฤBฎ)ท*Zฌ(ฬฺไAK้ยW|P๓ฤถ๐อmd&rฎ2'Ü๑ํcคฑ5ฆ,ฏ+#}งto/”~yิLÞxญ#6ลEอธýฎไ’ร*zื|]`YD]ฏ๔ฯฯp๗dึ๏จ๛	ัJฏYgFd^ะ;q|sดJi—C๙ฃ฿Lh”Z/กแ?็Bฮ;,jfยุฏ๋ึงjuPฆ๏:•
+kป$ฌโ+DซDโ	๏๋ๆE็EGUt!"XXh…Z0่s๐”zแUณfH`UwฦHjำ$ฅZฐฤี็Lึึ๒๓๖tnSฝอ\IIำ๊ภrพ!*็•็|ฃส5โZค-ๆ	|น๖6๊•ด|Kp:พ9Q+มฬfJ$สdOัeySฮGภ๓–ฟþ878ยP4)ท฿/น]ุวB้6Rสk]ษ๘ท*zI8ฬะ๓ฑ0์{D‘c๘กiÞmYโสs]–ศใโใหh	:ๅบ#เฑข๎JพๅจฏTส๚ฏป—AQoJญึr๏ด์๒Üฺ knษgUฅEV$)LýบbCชุ<ยะผmbvn,1ต๏ ฿go๖๕๙ื*$hงฒQพÞÞืR04`	jฯg๒ฬฅ5๒?ธ…lอmþบ๎๋| fFoัxป9Yฅ๑vศt๛Ü๕๏ธy]ฐฤc้ๆ28:ุþฃu๗ฅฺLÝี*“ฟฬูVrUมห…VตM”ํฒฒ:67h >mU	งT“uอjXv!ฑชG>‘วt*ญฉญE#ÛbฮฃtจÛiฎ!nCc"’'["€ ๚#ฤฃ	aฏพญ์ล}์Zึ ี
+"หQs๏ฦถฒดD ý$PีIสBด\/2ทvฌN;็ุฏÿฤ9_ำ”; ขงัสbg๐Jsaฆ:	๕^ฌ๕oü7eÛผ1kU&ิzNฅ}๒9Z8hืu9ตByษqอย“ชค:ศKb๋โI/ýึCธ|ั—J=ค~R๊CÞYMใลข/O’_๗ฅฯH2|ฺ@w๙Nwฬ๏gขไ2|ตÞKjLลYเีÜw|ำ'Q
+ใyKฺ4ฉ3๙ฦ+ฺ•cกB,baย7€u๒3uýว8yNsQ—฿ ๓/vMฯใjo฿๒V๔V_งฯAพ๛เึ‘
+!=4Vๅ<Eง_ษฤต
+ซฑๅa๏แ"pษ๖€๎ปุาาHฎ`ฆj>:T๙ฅวFื7[:*x้์ึ"ใ์gฮtÜ<ฒÝบหÞฯ6”Ysธ๑WiERจ4*ฆำว* จฅขeUMปVt8
+P“xฌฝข3๋_CฌฐV
+จ>อ:Z8Þไü	ýฑลzารๆ$NxๅอD8ฝ1€๔hฐ}!oi#bt ั= ฬศป๐k!ฉี_ทฉjBbธ@%๗D๐ฬo+.yeสว,>๏ObY…ฌืYOuพx[b๐๋9vา๋KBaรอ;v'ฅ=แS๒oช๊h —Üกร4SOg=XÝฟ(;>ฺฤณeฆ/=ษmาQ๒Kค[ทe3฿FýLฤc-O"๓x๐ฝHT๏ิ“?ฝซü+ลมoฑ_y"฿)ýB’า^&ง€\๒๏.ฒสใ:บบ๓•งฆค๗พ็๓" ๗}4ย๚จอk๗้MS๎๘๑T้ฆ J5Z๔I“HฟสT4K๘ฒดปD๋pฬS;b,ฦษม'ฆyญฒ๕นืxฃ—EคAพ๖1ฺ”๔WถOฺ”ฃคnkWfค—์8ภฑ๘@•t๊ฐ฿9*_ฏร}Bo๐๖์ษ
+ี๓,-วeชS้9YÞๆ+pÜบ๖๑kR(eซ@ใฃิPฺผๅท0๖แน—tฃ@ืG0ฆๅถ9–๖"–ทฝ,ÿJÿ>พ Þ{ ซ#?ชฟรXำ€bึ‘ฒธrฌWงฒ๚ฃ P…1Y1ำจซผซyโm็ะป~M“tตาย๚ุ}้*าสT*ป%R๒NAqล-ฺJw๊“"s.{Ýฉช~๓.Z[สบ€B9:๔:สถx฿U๊3>ฺpyv‘ีwW{ฮCษDใำ๙Fx์,ฉmY1ฌodน^ฤฝฬไ๑๋ํz่g•—ัwÝq&b4ฃ]]๔ซ’^uทXํชmq๚kxป	i๑+,*Iชกั9ÿ!กÜใตฉิQÛe=m0=Xmฅz.ๅb๑þวl๘^วb๊า•o1ณyิ
